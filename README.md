@@ -39,6 +39,6 @@ Growth function and kernel used:
 ![plot](./images/growth_function_and_filter.png)
 
 
-End result after a 280 generations of a random initialization state:
+End result after 280 generations starting from a random state:
 ![plot](./images/lenia.png)
 
