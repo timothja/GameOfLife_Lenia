@@ -1,6 +1,3 @@
-<div style="float:left; margin-right:10px;">
-    <img src="./images/orbium.gif" alt="Cellular Automaton Icon" width="50" style="border-radius:50%;">
-</div>
 
 # Cellular Automaton: Lenia
 
@@ -48,9 +45,4 @@ End result after 280 generations starting from a random state:
 ![plot](./images/lenia.png)
 
 You can get some interesting behaviour like this orbium:
-
-<video controls>
-  <source src="./images/orbium.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
