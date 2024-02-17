@@ -46,3 +46,6 @@ End result after 280 generations starting from a random state:
 
 You can get some interesting behaviour like this orbium:
 
+https://github.com/timothja/GameOfLife_Lenia/assets/92791818/924ffe10-d167-40f6-9559-94e1268b110c
+
+
