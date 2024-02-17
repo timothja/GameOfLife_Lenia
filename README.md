@@ -1,4 +1,9 @@
+<div style="float:left; margin-right:10px;">
+    <img src="./images/orbium.gif" alt="Cellular Automaton Icon" width="50" style="border-radius:50%;">
+</div>
+
 # Cellular Automaton: Lenia
+
 
 This Python project is an implementation and exploration of a continuous version of Conway's Game of Life inspired by ScienceEtonnante's video. It is based on Lenia, a continuous cellular automaton originally developed by Bert Wang-Chak Chan. Lenia is a continuous generalization of the Game Of Life with continuous states, space and time.
 
@@ -41,4 +46,11 @@ Growth function and kernel used:
 
 End result after 280 generations starting from a random state:
 ![plot](./images/lenia.png)
+
+You can get some interesting behaviour like this orbium:
+
+<video controls>
+  <source src="./images/orbium.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
